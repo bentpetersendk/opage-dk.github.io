@@ -3147,6 +3147,9 @@ a {
   padding-bottom: 60px;
   background: #ffffff;
 }
+.cid-tXia5eR5ki .team-card .image-wrap img {
+  transition: all 0.5s;
+}
 .cid-tXia5eR5ki .card-title,
 .cid-tXia5eR5ki .mbr-role {
   transition: 0.3s;
