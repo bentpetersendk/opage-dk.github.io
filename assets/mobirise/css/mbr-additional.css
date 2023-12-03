@@ -684,7 +684,7 @@ a {
 }
 .cid-tD7y9hf683 {
   display: flex;
-  background-image: url("../../../assets/images/123368.jpg");
+  background-image: url("../../../assets/images/resundsphages.webp");
 }
 .cid-tD7y9hf683 .mbr-overlay {
   background-color: #353535;
@@ -2118,6 +2118,98 @@ a {
 @media (min-width: 992px) {
   .cid-tXioGRYLHU .timeline-date-wrapper,
   .cid-tXioGRYLHU .timeline-text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tXoo09PYW8 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tXoo09PYW8 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tXoo09PYW8 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tXoo09PYW8 .timeline-element {
+  position: relative;
+}
+.cid-tXoo09PYW8 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tXoo09PYW8 .iconBackground {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #6592e6;
+  top: 30px;
+  margin-left: -9px;
+  padding: 0;
+}
+@media (max-width: 767px) {
+  .cid-tXoo09PYW8 .iconBackground {
+    left: 15px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tXoo09PYW8 .iconBackground {
+    left: 50%;
+  }
+}
+.cid-tXoo09PYW8 .row:after {
+  content: "";
+  position: absolute;
+  background-color: #6592e6;
+  width: 2px;
+  top: 50px;
+  height: calc(100% - 10px);
+}
+@media (max-width: 767px) {
+  .cid-tXoo09PYW8 .row:after {
+    left: 15px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tXoo09PYW8 .row:after {
+    left: 50%;
+  }
+}
+.cid-tXoo09PYW8 .row:nth-child(odd) .mbr-timeline-date {
+  text-align: right;
+}
+@media (max-width: 767px) {
+  .cid-tXoo09PYW8 .row:nth-child(even) {
+    flex-direction: column-reverse;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tXoo09PYW8 .timeline-date-wrapper,
+  .cid-tXoo09PYW8 .timeline-text-wrapper {
+    padding: 0rem;
+    padding-left: 2rem;
+  }
+  .cid-tXoo09PYW8 .mbr-timeline-date {
+    text-align: left !important;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-tXoo09PYW8 .timeline-date-wrapper,
+  .cid-tXoo09PYW8 .timeline-text-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tXoo09PYW8 .timeline-date-wrapper,
+  .cid-tXoo09PYW8 .timeline-text-wrapper {
     padding: 2rem;
   }
 }
